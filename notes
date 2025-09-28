@@ -1,0 +1,2 @@
+in forms, name is important as information is sent to the server under it.
+whereas, value is the answer which is chosen or added by the user and is sent to the server.
